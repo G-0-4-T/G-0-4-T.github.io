@@ -1,0 +1,8 @@
+---
+title: alg0r1thm
+layout: default
+modal-id: 5
+img: alg0r1thm.jpg
+alt: image-alt=
+description: 
+---

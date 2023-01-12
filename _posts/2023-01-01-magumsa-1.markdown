@@ -1,0 +1,8 @@
+---
+title: 마검사
+layout: default
+modal-id: 6
+img: magumsa.gif
+alt: image-alt=
+description: 개쩌는 웹해커
+---
