@@ -1,8 +1,8 @@
 ---
-title: skysquirrel
+title: seophohoho
 layout: default
-modal-id: 3
-img: skysquirrel.png
+modal-id: 8
+img: seophohoho.jpg
 alt: image-alt=
 description: 
 field: Pwnable
